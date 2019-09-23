@@ -1,2 +1,2 @@
-# CitySat_public
+# CitySat
 Earth Observation Satellite Simulator
